@@ -13,3 +13,4 @@ Andrew Ng's specialization course for all my assignments in neural network and d
   - [**Week3**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W3.pdf)
   - [**Week4**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W4.pdf)
 - Programming assignments:
+  - [Numpy](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
