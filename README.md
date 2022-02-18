@@ -33,10 +33,10 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 
     `Dependencies`
 
-    - [**NN TestUtils.py**]()
-    - [**NN PublicTest.py**]()
-    - [**NN PlanarUtils.py**]()
-    - [**NN TestCases.py**]()
+    - [**NN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_test_utils.py)
+    - [**NN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_public_tests.py)
+    - [**NN PlanarUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/planar_utils.py)
+    - [**NN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/testCases_v2.py)
 
   - [**Deep NN**]()
 
