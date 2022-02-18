@@ -1,4 +1,4 @@
-## `Deep Learning and Neural Network Specialization`
+## [**`Deep Learning and Neural Network Specialization`**](https://www.coursera.org/programs/2339d1e5-504d-4412-ac0c-b05c637965db?collectionId=&currentTab=CATALOG&productId=W62RsyrdEeeFQQqyuQaohA&productType=s12n&showMiniModal=true)
 
 Andrew Ng's specialization course with all assignments in neural network and deep learning.
 
@@ -14,6 +14,22 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 - Getting familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 - Understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology.
 - Programming assignments:
+
   - [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
+
+    `Dependencies`
+
+    - [**Test Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/test_utils.py)
+    - [**PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/public_tests.py)
+
+  - [**LogReg with NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+
+    `Dependencies`
+
+    - [**Lr Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_utils.py)
+    - [**Lr PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_public_tests.py)
+
+  - [**Shallow NN**]()
+  - [**Deep NN**]()
 
 #### `Course 2` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
