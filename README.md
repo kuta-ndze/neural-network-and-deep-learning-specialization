@@ -16,7 +16,7 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 
 ---
 
-- Programming Assignmets:
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)`Programming Assignmets:`
 
 - [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
 
