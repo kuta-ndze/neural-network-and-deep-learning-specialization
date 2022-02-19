@@ -1,3 +1,7 @@
+<h1>
+redant <img style="vertical-align:middle;" alt="logo" src="https://i.imgur.com/7U4ktuT.png?1" height="25px">
+</h1>
+
 ## [**`Deep Learning and Neural Network Specialization`**](https://www.coursera.org/programs/2339d1e5-504d-4412-ac0c-b05c637965db?collectionId=&currentTab=CATALOG&productId=W62RsyrdEeeFQQqyuQaohA&productType=s12n&showMiniModal=true)
 
 Andrew Ng's specialization course with all assignments in neural network and deep learning.
@@ -14,36 +18,7 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 - Getting familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 - Understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology.
 
-```diff
 - Programming Assignmets:
-
-
-- [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
-
-  `Dependencies`
-
-  - [**Test Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/test_utils.py)
-  - [**PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/public_tests.py)
-
-- [**LogReg with NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-
-  `Dependencies`
-
-  - [**Lr Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_utils.py)
-  - [**Lr PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_public_tests.py)
-
-- [**Shallow NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Planar_data_classification_with_one_hidden_layer.ipynb)
-
-  `Dependencies`
-
-  - [**NN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_test_utils.py)
-  - [**NN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_public_tests.py)
-  - [**NN PlanarUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/planar_utils.py)
-  - [**NN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/testCases_v2.py)
-
-- [**Deep NN**]()
-
-```
 
 - [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
 
