@@ -46,4 +46,4 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 
 ---
 
-#### ![#1589F0](https://via.placeholder.com/15/f03c15/000000?text=+) `Course 2` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+#### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Course 2` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
