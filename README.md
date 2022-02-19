@@ -10,7 +10,7 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 
 ---
 
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Course 1` : [**`Neural Network and Deep Learning`**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+#### ![#f03c15]`Course 1` : [**`Neural Network and Deep Learning`**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 - In the first course of the Deep Learning Specialization, comprises the foundational concept of neural networks and deep learning.
 - Getting familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
