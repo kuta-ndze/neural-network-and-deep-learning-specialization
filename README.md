@@ -42,7 +42,14 @@ Andrew Ng's specialization course with all assignments in neural network and dee
   - [**NN PlanarUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/planar_utils.py)
   - [**NN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/testCases_v2.py)
 
-- [**Deep NN**]()
+- [**Deep NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+
+  `Dependencies`
+
+  - [**DNN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_test_utils.py)
+  - [**DNN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_public_tests.py)
+  - [**NN Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_utils.py)
+  - [**DNN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_testCases.py)
 
 ---
 
