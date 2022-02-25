@@ -19,36 +19,37 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 | **Programming Assignmets:** |
 | :-------------------------- |
 
-- |[**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
+- [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
 
   `Dependencies`
 
   - [**Test Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/test_utils.py)
-  - [**PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/public_tests.py)|
-    [**LogReg with NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [**PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/public_tests.py)
+
+- [**LogReg with NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
   `Dependencies`
 
   - [**Lr Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_utils.py)
-  - [**Lr PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_public_tests.py)|
+  - [**Lr PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/lr_public_tests.py)
 
-[**Shallow NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Planar_data_classification_with_one_hidden_layer.ipynb)
+- [**Shallow NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Planar_data_classification_with_one_hidden_layer.ipynb)
 
-`Dependencies`
+  `Dependencies`
 
-- [**NN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_test_utils.py)
-- [**NN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_public_tests.py)
-- [**NN PlanarUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/planar_utils.py)
-- | [**NN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/testCases_v2.py) |
-  | :--------------------------------------------------------------------------------------------------------------------------------------- |
-  |[**Deep NN A1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [**NN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_test_utils.py)
+  - [**NN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/nn_public_tests.py)
+  - [**NN PlanarUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/planar_utils.py)
+  - [**NN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/testCases_v2.py)
 
-`Dependencies`
+- [**Deep NN A1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
-- [**DNN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_test_utils.py)
-- [**DNN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_public_tests.py)
-- [**NN Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_utils.py)
-- [**DNN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_testCases.py)|
+  `Dependencies`
+
+  - [**DNN TestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_test_utils.py)
+  - [**DNN PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_public_tests.py)
+  - [**NN Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_utils.py)
+  - [**DNN TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_testCases.py)
 
 - [**Deep NN A2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Deep%20Neural%20Network%20-%20Application.py)
 
@@ -57,8 +58,7 @@ Andrew Ng's specialization course with all assignments in neural network and dee
   - [**DNN TestUtils.py**]()
   - [**DNN PublicTest.py**]()
   - [**NN Utils.py**]()
-  - | [**DNN TestCases.py**]() |     |
-    | :----------------------- | :-- |
+  - [**DNN TestCases.py**]()
 
 ---
 
