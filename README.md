@@ -62,7 +62,6 @@ Andrew Ng's specialization course with all assignments in neural network and dee
     |a |b |c |
     |:---|:---|:---|
     |d |e | f |
-    |:---|:---|:---|
     |h |i |j |
 
 ---
