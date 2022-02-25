@@ -59,6 +59,12 @@ Andrew Ng's specialization course with all assignments in neural network and dee
   - [**DNN PublicTest.py**]()
   - [**NN Utils.py**]()
   - [**DNN TestCases.py**]()
+    |a|b|c|
+    |:---|:---|:---|
+    |d|e|f|
+    |:---|:---|:---|
+    |h|i|j|
+    |:---|:---|:---|
 
 ---
 
