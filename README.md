@@ -1,4 +1,4 @@
-[![Stars](https://img.shields.io/github/stars/kuta-ndze/neural-network-and-deep-learning-specialization?style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/stargazers)
+[![Stars](https://img.shields.io/github/forks/kuta-ndze/neural-network-and-deep-learning-specialization?label=Stars&logoColor=orange&style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/stargazers)
 [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&logoColor=red&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkuta-n-celdrick-b808ba169%2F)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 [![Fork](https://img.shields.io/github/forks/kuta-ndze/neural-network-and-deep-learning-specialization?logoColor=orange&style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/network/members)
 
