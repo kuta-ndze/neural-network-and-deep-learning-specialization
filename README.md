@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/kuta-ndze/neural-network-and-deep-learning-specialization?style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/stargazers)
+
 ## [**`Deep Learning and Neural Network Specialization`**](https://www.coursera.org/programs/2339d1e5-504d-4412-ac0c-b05c637965db?collectionId=&currentTab=CATALOG&productId=W62RsyrdEeeFQQqyuQaohA&productType=s12n&showMiniModal=true)
 
 Andrew Ng's specialization course with all assignments in neural network and deep learning.
