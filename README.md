@@ -1,5 +1,6 @@
 [![Stars](https://img.shields.io/github/stars/kuta-ndze/neural-network-and-deep-learning-specialization?style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/stargazers)
 [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&logoColor=red&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkuta-n-celdrick-b808ba169%2F)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+[![Fork](https://img.shields.io/github/forks/kuta-ndze/neural-network-and-deep-learning-specialization?logoColor=orange&style=social)](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/network/members)
 
 ## [**`Deep Learning and Neural Network Specialization`**](https://www.coursera.org/programs/2339d1e5-504d-4412-ac0c-b05c637965db?collectionId=&currentTab=CATALOG&productId=W62RsyrdEeeFQQqyuQaohA&productType=s12n&showMiniModal=true)
 
