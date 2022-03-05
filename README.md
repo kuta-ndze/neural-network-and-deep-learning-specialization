@@ -20,8 +20,8 @@ Andrew Ng's specialization course with all assignments in neural network and dee
 - Getting familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 - Understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI <mark>technology</mark>.
 
-| :white_check_mark:**Programming Assignmets:** |
-| :-------------------------------------------- |
+| 🎲**Programming Assignmets:** |
+| :---------------------------- |
 
 - [**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)
 
