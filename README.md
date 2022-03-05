@@ -64,6 +64,11 @@ Andrew Ng's specialization course with all assignments in neural network and dee
   - [**DNN2 Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_app_utils_v3.py)
   - [**Train Data**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/train_catvnoncat.h5)
   - [**Test Data**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/test_catvnoncat.h5)
+    |a|b|c
+    |:---:|:---:|:---:|
+    |d|e|f|
+    |:---:|:---:|:---:|
+    |h|i|j|
 
 ---
 
