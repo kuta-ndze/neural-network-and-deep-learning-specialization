@@ -64,7 +64,8 @@ Andrew Ng's specialization course with all assignments in neural network and dee
   - [**DNN2 Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/dnn_app_utils_v3.py)
   - [**Train Data**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/train_catvnoncat.h5)
   - [**Test Data**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/test_catvnoncat.h5)
-    |a|b|c
+    |[**Numpy**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Python_Basics_with_Numpy.ipynb)|[**LogReg with NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)|[**Shallow NN**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/Planar_data_classification_with_one_hidden_layer.ipynb)
+    |
     |:---|:---:|---:|
     |d|e|f|
     |h|i|j|
