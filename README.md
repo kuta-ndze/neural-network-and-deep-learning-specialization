@@ -37,6 +37,11 @@
 #### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Course 2` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
 - PDF lectures:
+
   - [**Week1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W1.pdf)
   - [**Week2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W2.pdf)
   - [**Week3**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W3.pdf)
+
+- Discover and experiment with various initialization methods, apply L2 regularization and dropout to avoid model overfitting, and use gradient checking to identify errors in a fraud detection model.
+- Develop your deep learning toolbox by adding more advanced optimizations, random mini-batching, and learning rate decay scheduling to speed up your models.
+- Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily and train a neural network on a TensorFlow dataset..
