@@ -4,17 +4,16 @@
 
 ## :traffic_light: [**`Deep Learning and Neural Network Specialization`**](https://www.coursera.org/programs/2339d1e5-504d-4412-ac0c-b05c637965db?collectionId=&currentTab=CATALOG&productId=W62RsyrdEeeFQQqyuQaohA&productType=s12n&showMiniModal=true)
 
-Andrew Ng's specialization course with all assignments in neural network and deep learning.
+## Andrew Ng's specialization course with all assignments in neural network and deep learning.
 
-- Pdf lectures:
+#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Course 1` : [**`Neural Network and Deep Learning`**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+
+- PDF lectures:
+
   - [**Week1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W1.pdf)
   - [**Week2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W2.pdf)
   - [**Week3**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W3.pdf)
   - [**Week4**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%201/C1_W4.pdf)
-
----
-
-#### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Course 1` : [**`Neural Network and Deep Learning`**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 - In the first course of the Deep Learning Specialization, comprises the foundational concept of neural networks and deep learning.
 - Getting familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
