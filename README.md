@@ -35,3 +35,8 @@
 ---
 
 #### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Course 2` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+
+- PDF lectures:
+  - [**Week1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W1.pdf)
+  - [**Week2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W2.pdf)
+  - [**Week3**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/C2_W3.pdf)
