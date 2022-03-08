@@ -45,3 +45,8 @@
 - Discover and experiment with various initialization methods, apply L2 regularization and dropout to avoid model overfitting, and use gradient checking to identify errors in a fraud detection model.
 - Develop your deep learning toolbox by adding more advanced optimizations, random mini-batching, and learning rate decay scheduling to speed up your models.
 - Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily and train a neural network on a TensorFlow dataset..
+
+| 🎲**Programming Assignmets:** |
+| :---------------------------- |
+
+- The section assignment in the table and their dependencies.
