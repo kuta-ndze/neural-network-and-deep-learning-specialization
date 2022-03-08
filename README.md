@@ -50,3 +50,10 @@
 | :---------------------------- |
 
 - The section assignment in the table and their dependencies.
+
+| a   |  b  |   c |
+| :-- | :-: | --: |
+| A   |  B  |   C |
+| f   |  g  |   h |
+| F   |  G  |   H |
+| i   |  j  |   k |
