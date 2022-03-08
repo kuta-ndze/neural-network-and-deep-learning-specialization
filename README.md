@@ -51,9 +51,9 @@
 
 - The section assignment in the table and their dependencies.
 
-  | a   |  b  |   c |
-  | :-- | :-: | --: |
-  | A   |  B  |   C |
-  | f   |  g  |   h |
-  | F   |  G  |   H |
-  | i   |  j  |   k |
+  | a   |  b  |  c  |  d  |   e |
+  | :-- | :-: | :-: | :-: | --: |
+  | A   |  B  |  C  |  D  |   E |
+  | f   |  g  |  h  |  i  |   j |
+  | F   |  G  |  H  |  I  |   J |
+  | j   |  k  |  l  |  m  |   n |
