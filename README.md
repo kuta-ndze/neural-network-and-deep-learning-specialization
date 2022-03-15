@@ -51,9 +51,9 @@
 
 - The section assignment in the table and their dependencies.
 
-  | a   |  b  |  c  |  d  |   e |
-  | :-- | :-: | :-: | :-: | --: |
-  | A   |  B  |  C  |  D  |   E |
-  | f   |  g  |  h  |  i  |   j |
-  | F   |  G  |  H  |  I  |   J |
-  | j   |  k  |  l  |  m  |   n |
+  | [**`Initialization`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Initialization.ipynb) | [**`Regularization`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Regularization.ipynb) | [**`GradientCheck`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Gradient_Checking.ipynb) |  d  |   e |
+  | :--------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-: | --: |
+  | [**In PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/init_public_tests.py) |                                                                       B                                                                        |                                                                        C                                                                         |  D  |   E |
+  | [**Init Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/init_utils.py)           |                                                                       g                                                                        |                                                                        h                                                                         |  i  |   j |
+  | F                                                                                                                                              |                                                                       G                                                                        |                                                                        H                                                                         |  I  |   J |
+  | j                                                                                                                                              |                                                                       k                                                                        |                                                                        l                                                                         |  m  |   n |
