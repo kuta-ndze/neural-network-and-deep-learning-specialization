@@ -51,9 +51,9 @@
 
 - The section assignment in the table and their dependencies.
 
-  | a   |  b  |  c  |  d  |   e |
-  | :-- | :-: | :-: | :-: | --: |
-  | A   |  B  |  C  |  D  |   E |
-  | f   |  g  |  h  |  i  |   j |
-  | F   |  G  |  H  |  I  |   J |
-  | j   |  k  |  l  |  m  |   n |
+  | [**`Initialization`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Initialization.ipynb)   | [**`Regularization`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Regularization.ipynb)  | [**`GradientCheck`**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/Gradient_Checking.ipynb) |  d  |   e |
+  | :----------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-: | --: |
+  | [**Init Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/init_utils.py)             |       [**Regu Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_utils.py)       |        [**Grad Utils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_utils.py)        |  D  |   E |
+  | [**Init PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/init_public_tests.py) | [**Regu PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_public_tests.py) |  [**Grad PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_public_tests.py)  |  i  |   j |
+  |                                                                                                                                                  |   [**Regu TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_testCases.py)   |    [**Grad TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_testCases.py)    |  I  |   J |
+  |                                                                                                                                                  |                                                                                                                                                 |                                                                                                                                                  |  m  |   n |
