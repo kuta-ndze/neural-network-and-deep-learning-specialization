@@ -58,3 +58,9 @@
   |                                                                                                                                                  |   [**Regu TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_testCases.py)   |    [**Grad TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_testCases.py)    |        [**Opt TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/opt_testCases.py)         |                                                                                                                        [**ImprovTestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/improv_test_utils.py) |
 
 #### ![#ccccc9](https://via.placeholder.com/15/ccccc9/000000?text=+) `Course 3` : [**`Structuring Machine Learning Projects`**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+
+- PDF Lectures
+
+- Learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
+
+- Will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
