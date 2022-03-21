@@ -61,6 +61,9 @@
 
 - PDF Lectures
 
+  - [**Week 1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%203/C3_W1.pdf)
+  - [**Week 2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%203/C3_W2.pdf)
+
 - Learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
 
 - Will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
