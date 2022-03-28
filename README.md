@@ -67,3 +67,17 @@
 - Learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
 
 - Will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+#### ![#ccf9c5](https://via.placeholder.com/15/ccf9c5/000000?text=+) `Course 4` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+
+- PDF lectures:
+
+  - [**Week1**]()
+  - [**Week2**]()
+  - [**Week3**]()
+
+- Understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more
+- Able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+| 🎲**Programming Assignmets:** |
+| :---------------------------- |
