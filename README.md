@@ -57,6 +57,8 @@
   | [**Init PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/init_public_tests.py) | [**Regu PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_public_tests.py) |  [**Grad PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_public_tests.py)  |      [**Opt PublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/opt_public_tests.py)       |                                                                                                                     [**ImprovPublicTest.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/improv_public_tests.py) |
   |                                                                                                                                                  |   [**Regu TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/reg_testCases.py)   |    [**Grad TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/gc_testCases.py)    |        [**Opt TestCases.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/opt_testCases.py)         |                                                                                                                        [**ImprovTestUtils.py**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%202/improv_test_utils.py) |
 
+---
+
 #### ![#ccccc9](https://via.placeholder.com/15/ccccc9/000000?text=+) `Course 3` : [**`Structuring Machine Learning Projects`**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 - PDF Lectures
@@ -67,6 +69,8 @@
 - Learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
 
 - Will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+---
 
 #### ![#ccf9c5](https://via.placeholder.com/15/ccf9c5/000000?text=+) `Course 4` : [**`Convolutional Neural Networks`**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
