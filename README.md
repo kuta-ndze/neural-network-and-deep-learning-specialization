@@ -68,7 +68,7 @@
 
 - Will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 
-#### ![#ccf9c5](https://via.placeholder.com/15/ccf9c5/000000?text=+) `Course 4` : [**`Improving Deep Neural Network`**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+#### ![#ccf9c5](https://via.placeholder.com/15/ccf9c5/000000?text=+) `Course 4` : [**`Convolutional Neural Networks`**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 - PDF lectures:
 
