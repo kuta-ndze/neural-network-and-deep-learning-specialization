@@ -76,9 +76,10 @@
 
 - PDF lectures:
 
-  - [**Week1**]()
-  - [**Week2**]()
-  - [**Week3**]()
+  - [**Week1**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%204/C4_W1.pdf)
+  - [**Week2**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%204/C4_W2.pdf)
+  - [**Week3**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%204/C4_W3.pdf)
+  - [**Week4**](https://github.com/kuta-ndze/neural-network-and-deep-learning-specialization/blob/main/Course%204/C4_W4.pdf)
 
 - Understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more
 - Able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
