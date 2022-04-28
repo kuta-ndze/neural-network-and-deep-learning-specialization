@@ -86,3 +86,11 @@
 
 | 🎲**Programming Assignmets:** |
 | :---------------------------- |
+
+- The section assignment in the table and their dependencies.
+
+  | a   | b   | c   | d   | e   |
+  | --- | --- | --- | --- | --- |
+  | A   | B   | C   | D   | E   |
+  | f   | g   | h   | i   | j   |
+  | F   | G   | H   | D   | E   |
